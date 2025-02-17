@@ -34,9 +34,13 @@ A sophisticated option trading recommendation tool with advanced technical analy
 
 ## 🚀 Quick Start
 
-1. Download the latest release from the [releases page](https://github.com/garroshub/Option_Writer/releases)
-2. Run `Option Writer.exe`
-3. Start analyzing options and receiving trade recommendations!
+### Windows Users
+Download the pre-built executable from [releases](https://github.com/garroshub/Option_Writer/releases) and run it directly - no installation needed!
+
+### Developers
+1. Clone the repository
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run `python main.py`
 
 ## 💡 Trading Strategy
 
