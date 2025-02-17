@@ -42,6 +42,14 @@ Download the pre-built executable from [releases](https://github.com/garroshub/O
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run `python main.py`
 
+## 📸 Screenshots
+
+### Main Interface
+![Main Interface](UI_1.png)
+
+### Analysis View
+![Analysis View](UI_2.png)
+
 ## 💡 Trading Strategy
 
 ### Bearish Market Conditions
